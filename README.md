@@ -15,6 +15,6 @@ https://choiportfolio.netlify.app/index.html (Netlify)
 header부분에 네비게이션바에 신체정보를 클릭하면 나의 신체정보가 차트형식으로 나타난다. (차트가안뜰시 새로고침)
 <br><br><br>
 
-![4](https://user-images.githubusercontent.com/101083779/197352996-9d0038b0-05ac-46c1-b87f-b795a7284c23.png)
+![4](https://user-images.githubusercontent.com/101083779/197360217-850aa41f-79e3-4012-9d49-400cf661906f.png)
 
-![3](https://user-images.githubusercontent.com/101083779/197352944-40cb8d3c-eb4d-4ad6-9691-3dd440efd90b.png)
+![3](https://user-images.githubusercontent.com/101083779/197360213-33a96eb7-8f7c-400d-9edb-9d95ddc6033a.png)
